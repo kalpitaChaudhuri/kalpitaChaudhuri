@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kalpita Chaudhuri, final year BTech student in IT, Frontend developer.
+- 👀 I’m interested in web development, app development, project designing, communication. 
+- 🌱 I’m obsessed with movies and music. If my vibe matches with someone, I can go on and on for hours.
+- ✨ Cat lover, not necessarily a human lover :)

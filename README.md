@@ -1,6 +1,6 @@
-👋 Hi, I’m Kalpita Chaudhuri.
-💻 Software Engineer working with Python, Java & backend development.
-🤖 Exploring LLMs, Generative AI, ADK agents & AI-powered applications.
-⚙️ I also build automation tools and web-scraping solutions with Selenium.
-🎬 Obsessed with movies and music.
-🐈 Cat lover, not necessarily a human lover :)
+-👋 Hi, I’m Kalpita Chaudhuri.
+-💻 Software Engineer working with Python, Java & backend development.
+-🤖 Exploring LLMs, Generative AI, ADK agents & AI-powered applications.
+-⚙️ I also build automation tools and web-scraping solutions with Selenium.
+-🎬 Obsessed with movies and music.
+-🐈 Cat lover, not necessarily a human lover :)
